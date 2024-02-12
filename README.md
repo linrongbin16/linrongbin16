@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **linrongbin16@outlook.com**
 
-- ⚡ Fun fact **I am a husband and a farther**
+- ⚡ Fun fact **I am a husband and a father**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

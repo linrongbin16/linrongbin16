@@ -3,7 +3,7 @@
 [![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff)](https://x.com/linrongbin16)
 
 <h1>Hi 👋, I'm Lin Rongbin</h1>
-<p>A VIM editor expert and fullstack developer.</p>
+<p>A Vimer and a fullstack developer.</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=linrongbin16&show_icons=true&locale=en" alt="linrongbin16" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linrongbin16&" alt="linrongbin16" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=linrongbin16&show_icons=true&locale=en&layout=compact" alt="linrongbin16" /></p>

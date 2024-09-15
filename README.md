@@ -6,7 +6,7 @@
 
 I am a Vimer and fullstack developer.
 
-I create a few Neovim plugins, please find them in my personal [profile's](https://github.com/linrongbin16) "Pinned" projects.
+I create a few Neovim plugins, please find them in my personal profile's ["Pinned" projects](https://github.com/linrongbin16).
 
 Currently I am developing [RSVIM](https://github.com/rsvim/rsvim), the Vim editor reinvented in Rust+TypeScript.
 

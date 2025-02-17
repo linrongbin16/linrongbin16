@@ -1,7 +1,8 @@
 Please sponsor me by:
 
 - GitHub Sponsor
-  <https://github.com/sponsors/linrongbin16>
+  [![Github Sponsor](https://img.shields.io/badge/-Sponsor%20Me%20on%20Github-magenta?logo=github&logoColor=white)](https://github.com/sponsors/linrongbin16)
+
 
 ## Alipay
 
